@@ -4,6 +4,10 @@ def puissance(a,b):
 	else:
 		result = a
 		if a == 0 and b != 0:
+			if b<0:
+				return("vous ne pouvez pas avoir une puissance négative")
+			else:
+				return(a)
 			return(a)
 		if a == 0 and b == 0:
 			return(1)
