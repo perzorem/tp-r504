@@ -8,4 +8,4 @@ jobs:
       - name: Set up Python for Demo
         uses: actions/setup-python@v4
       - name: Run tests
-        run: pytest tp-r504/test.py
+        run: python3 -m pytest tp-r504/test.py
