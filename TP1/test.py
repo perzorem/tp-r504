@@ -15,3 +15,4 @@ def test_3():
 	assert f.puissance(0,0) == 1
 	assert f.puissance(-2,0) == -1
 	assert f.puissance(2,0) == 1
+#toto
