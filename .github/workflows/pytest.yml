@@ -3,6 +3,13 @@ on: [push]
 jobs:
   build:
     runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: ["3.8", "3.10"]
+        - name: Set up Python for Demo
+          uses: actions/setup-python@v4
+          with
+            python-bersion: ${{ matrix.python-version }}
     steps:
       - uses: actions/checkout@v3
       - name: Set up Python for Demo
