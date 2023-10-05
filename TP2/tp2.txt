@@ -35,10 +35,6 @@ Q2.1 - git status
 
 Q2.2 - main
 
-Q2.3 -
-
-Q2.4 -
-
 Q2.5 - Oui
 
 Q2.6 - Non, pour le voir, il faut changer de branche
@@ -46,10 +42,11 @@ Q2.6 - Non, pour le voir, il faut changer de branche
 Q2.7 - La commande affiche les modifications apportées au fichier, dans notre cas, elle 
 affiche l'ajout de la ligne image
 
-Q2.8 -
 
 
 PARTIE 3
 
 
-Q3.1 -
+Q3.1 - Non
+
+Q3.3 - Oui
