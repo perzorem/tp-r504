@@ -30,6 +30,7 @@ Q1.13 - git log --format="%an" | sort | uniq | wc -l
 
 PARTIE 2
 
+
 Q2.1 - git status
 
 Q2.2 - main
@@ -42,6 +43,13 @@ Q2.5 - Oui
 
 Q2.6 - Non, pour le voir, il faut changer de branche
 
-Q2.7 -
+Q2.7 - La commande affiche les modifications apportées au fichier, dans notre cas, elle 
+affiche l'ajout de la ligne image
 
 Q2.8 -
+
+
+PARTIE 3
+
+
+Q3.1 -
