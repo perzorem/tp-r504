@@ -19,3 +19,5 @@ Q1.9 - Wei Wang, le 25/03/2014
 Q1.10 - Git shortlog -s --oneline  Il y a eu 91 commit en tout
 
 Q1.11 - la commande montre le message du dernier commit plutot que le tag du commit
+
+Q1.12 - git log --format="author"
