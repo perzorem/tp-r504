@@ -2,7 +2,8 @@ Q1.1 - D'après Github, il y a 9 contributeurs
 
 Q1.2 - Le projet prend 92.00 Kio
 
-Q1.3 - La commande git blame permet de savoir qui est le dernier utilisateur qui a modifié la 
-version la plus récente du projet
+Q1.3 - La commande git blame permet de savoir quel utilisateur à commité tel ou tel ligne(s)
 
-Q1.4
+Q1.4 - Jake Ginnivan est la personne à l'origine du commit de la ligne 329
+
+Q1.5 -
