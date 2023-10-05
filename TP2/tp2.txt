@@ -6,10 +6,12 @@ Q1.3 - La commande git blame permet de savoir quel utilisateur à commité tel o
 
 Q1.4 - Jake Ginnivan est la personne à l'origine du commit de la ligne 329
 
-Q1.5 - 3e5d159
+Q1.5 - 9e56b97a51668614d992f33670751d377aa3c3da
 
 Q1.6 - "Adding tag command reference" 
 
 Q1.7 - "07/06/2014"
 
-Q1.8 - c7f5d3c
+Q1.8 - f4bd5402455b5c02bd51ee3ff863405c8e2c2ab7
+
+Q1.9 - Wei Wang, le 25/03/2014
