@@ -11,3 +11,5 @@ Q1.5 - 3e5d159
 Q1.6 - "Adding tag command reference" 
 
 Q1.7 - "07/06/2014"
+
+Q1.8 - c7f5d3c
