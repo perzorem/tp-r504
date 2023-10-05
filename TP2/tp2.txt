@@ -30,17 +30,17 @@ Q1.13 - git log --format="%an" | sort | uniq | wc -l
 
 PARTIE 2
 
-Q2.1 -
+Q2.1 - git status
 
-Q2.2 -
+Q2.2 - main
 
 Q2.3 -
 
 Q2.4 -
 
-Q2.5 -
+Q2.5 - Oui
 
-Q2.6 -
+Q2.6 - Non, pour le voir, il faut changer de branche
 
 Q2.7 -
 
