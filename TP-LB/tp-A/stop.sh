@@ -1,2 +1,2 @@
-docker fill $(docker ps -q)
+docker kill $(docker ps -q)
 docker rm $(docker ps -aq) 
