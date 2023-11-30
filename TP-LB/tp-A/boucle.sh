@@ -1,4 +1,6 @@
-for i in {0,100}
+#! /bin/bash
+
+for ((i=1; i<=100; i++));
 do
-	curl localhost:83
+	curl http://localhost:83
 done
