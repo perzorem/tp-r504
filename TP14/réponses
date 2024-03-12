@@ -1,0 +1,30 @@
+Q1.1 
+	776 CVE
+
+Q1.2
+	776 CVE bullseye
+
+Q1.3
+	337 CVE corrigés
+
+Q.4
+	439 CVE
+
+Q.5
+	debsecan.sh
+
+	ajout dans le crontab :
+		30 2 * * * /home/user/tp-r504/TP14/debsecan.sh
+
+
+Q2.6
+	lynis audit system
+
+Q2.8
+	lynis audit system | ansi2html -l > rapport-lynis.html
+
+Q2.9
+	43 suggestions
+
+Q2.10
+	63%
