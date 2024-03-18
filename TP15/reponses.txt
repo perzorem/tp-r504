@@ -1,1 +1,11 @@
-toto
+Q1.1 donne les détails de la commande à un paragraphe et une ligne donnés
+
+Q1.2 0644
+
+Q1.3 0755
+
+Q1.4 0022
+
+Q1.5 non
+
+Q1.6 0027
